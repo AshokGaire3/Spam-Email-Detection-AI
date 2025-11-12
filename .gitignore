@@ -25,7 +25,7 @@ wheels/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb  # Commented out to allow tracking notebook files
 
 # Datasets - ignore large dataset files
 datasets/combined_data.csv
